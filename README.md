@@ -7,7 +7,7 @@
 
 | 文件夹 | 所属项目 | 内容 | 数量 |
 |---|---|---|---|
-| `cocktail-genome/` | 鸡尾酒基因浏览器（cursor_web 仓 proj/cocktail-genome 分支） | 鸡尾酒照片（Wikimedia 259 + AI 生成 337） | 596 |
+| `cocktail-genome/` | 鸡尾酒基因浏览器（cursor_web 仓 proj/cocktail-genome 分支） | 鸡尾酒照片（Wikimedia 266 + AI 生成 343 + web 17） | 626 |
 
 ## 规则
 
